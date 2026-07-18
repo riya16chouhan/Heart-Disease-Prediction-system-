@@ -7,7 +7,7 @@ Files included:
 - `train_model.py` — script to (re)train and create model artifacts
 - `KNN_heart.pkl`, `scaler (5).pkl`, `columns.pkl` — model artifacts
 - `requirements.txt` — Python dependencies
--'heartdiseases1.ipynb' - code file
+- `heartdiseases1.ipynb` - code file
 Deploy to Streamlit Community Cloud
 1. Push this repository to GitHub (if not already). Example:
 
