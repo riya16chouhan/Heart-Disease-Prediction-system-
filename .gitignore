@@ -1,0 +1,5 @@
+# Ignore dataset and model files
+heart.csv
+scaler (5).pkl
+kNN_heart.pkl
+KNN_heart.pkl
